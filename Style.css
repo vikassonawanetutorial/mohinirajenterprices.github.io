@@ -1,0 +1,666 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.shop {
+    font-family: 'Signika Negative', sans-serif;
+    float: left;
+    font-weight: normal;
+}
+
+.shop a {
+    list-style-type: none;
+    color: rgb(82, 80, 80);
+}
+
+
+/* navbar section  */
+.nav_design a {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+/* about us section  */
+.about_us_para {
+    margin-top: 30px;
+    line-height: 30px;
+    font-weight: 520;
+    font-size: 17px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+.heading_nav:hover {
+ color: #01733B;
+ /* text-shadow: 2px 0px orangered; */
+}
+
+.mohiniraj_enterprises_heading h4{
+    font-family: 'Signika Negative', sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #01733B;
+}
+.mohiniraj_enterprises_heading p{
+    font-family: 'Signika Negative', sans-serif;
+    /* text-decoration: underline; */
+    font-weight: bold;
+    color: #01733B;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* services section  */
+.services_card h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.services_card p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: baseline;
+    padding: 10px;
+}
+
+.services_card:hover {
+    background-color: white;
+    /* color: blue; */
+    color: #01733B;
+    font-weight: bold;
+    box-shadow: 10 10 10 white;
+}
+
+
+.footer_mohiniraj_section h1 {
+    font-family: 'Signika Negative', sans-serif;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.footer_mohiniraj_section h5 {
+    font-weight: bold;
+    font-family: 'Signika Negative', sans-serif;
+    text-decoration: underline;
+}
+
+.footer_mohiniraj_section p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.footer_about h4 {
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer_about h4:hover {
+    text-shadow: 2px 3px red;
+}
+
+.footer_about li a:hover {
+    color: rgb(107, 100, 100);
+}
+
+.footer_about li {
+    list-style: none;
+}
+
+.footer_about li a {
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.footer_sale_servises h4 {
+    color: white;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.footer_sale_servises li {
+    list-style: none;
+}
+
+.footer_sale_servises li a {
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    font-weight: bold;
+}
+
+.footer_sale_servises li a:hover {
+    color: rgb(107, 100, 100);
+}
+
+.footer_sale_servises h4:hover {
+    text-shadow: 2px 3px red;
+}
+
+
+/* social media section  */
+.social_media {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
+
+.social_media a {
+    color: white;
+    text-align: center;
+}
+
+.social_media a i {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+.social_media:hover {
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+/* contact us section page  */
+.contact_us_address_1 {
+    height: 60px;
+    width: 60px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.owner_section h3 {
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.owner_section p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.contact_us_address_1 i {
+    font-size: 40px;
+    color: orangered;
+}
+
+.contact_us_address_1 i:hover {
+    color: white;
+}
+
+.contact_us_address_1:hover {
+    background-color: orangered;
+}
+
+
+
+/* contact form section */
+.contact_heading h2 {
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.form_input input {
+    background-color: #01733B;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+}
+
+.form_label select {
+    background-color: #01733B;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+}
+
+.contact_textarea textarea {
+    background-color: #01733B;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 10px;
+}
+
+.send_btn {
+    width: 100px;
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 22px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+}
+
+
+
+
+
+/* solutions home section  */
+.solutions_by a {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #59B558;
+}
+
+.solutions_2_section {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+    font-weight: bold;
+}
+
+
+
+/* solutions hybrid section  */
+.hybrid_section h3 {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.hybrid_card h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 50px;
+}
+
+.hybrid_card p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: rgb(62, 62, 62);
+    margin-top: 18px;
+}
+
+.hybrid_card h3:hover {
+    color: blue;
+}
+
+.hybrid_card p:hover {
+    color: blue;
+}
+
+.our_heading:hover {
+    color: blue;
+    text-shadow: 2px 2px green;
+}
+
+
+
+
+
+/* case_studies_section1 */
+.case_studies_section1 h4 {
+    background-color: #01733B;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+}
+
+
+
+/* our solutions  */
+.our_solutions h3 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.our_solutions hr {
+    background-color: white;
+}
+
+.our_solutions p {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.our_solutions:hover {
+    background-color: #01733B;
+    color: white;
+}
+
+
+
+/* explore_more_section  */
+.our_solutions_footer_img {
+    background-image: url('by_technology.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+.explore_more_btn {
+    background-color: #01733B;
+    width: 200px;
+    border-radius: 40px;
+    border: 1px solid white;
+    padding: 10px;
+    position: relative;
+    top: 275px;
+    color: white;
+}
+
+
+/* case_studies_section  */
+.case_studies_btn {
+    padding: 10px;
+    border: 1px solid rgb(127, 121, 121);
+    width: 150px;
+    border-radius: 25px;
+}
+
+.case_studies_btn:hover {
+    background-color: #01733B;
+    color: white;
+}
+
+
+
+/* testimonials section  */
+.testimonials img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-top: -130px;
+    margin-left: 80px;
+}
+
+.testimonials h3 {
+    text-align: center;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.testimonials p {
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.testimonials span {
+    text-align: center;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+/* Navbar Brand section  */
+.Brands_section_heading h5 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 19px;
+
+}
+.total_brand_hover:hover{
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 20px 5px 10px black;
+    transform: scale(1.2);
+    transition: transform .5s;
+}
+
+.Brands_section_heading h5:hover {
+    color: #01733B;
+    font-weight: bold;
+
+}
+
+.Brands_section_heading a:hover {
+    text-decoration: none;
+}
+
+.view_fea_brand {
+    color: #01733B;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+}
+
+/* total brands section  */
+.brand_heading h1 {
+    color: black;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+/* servicess section starts  */
+/* 1. technology services  */
+.all_services_heading h6 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+}
+
+.all_services_heading h6:hover {
+    color: #01733B;
+    font-weight: bold;
+}
+
+.all_services_heading a:hover {
+    text-decoration: none;
+}
+
+.tech_servi_para {
+    text-align: center;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+.services_section_service h2 {
+    color: #01733B;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.services_section_service p {
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.services_sliding_btn {
+    background-color: red;
+    color: blue;
+}
+.services_para p{
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+
+
+/* channel services section  */
+.channel_para1 p{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.consulting_as_a_service p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding: 10px;
+}
+.consulting_as_a_service p:hover{
+   color: #01733B;
+}
+
+
+
+
+/* specilized services section  */
+.growth_section h1{
+color: white;
+font-weight: bold;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.growth_section p{
+    color: white;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    }
+    .one_to_five_col_section h5{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bold;
+    }
+    .one_to_five_col_section p{
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-size: 15px;
+            }
+    .services_offerd h5{
+        color: #01733B;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;  
+    }
+    .services_offerd p{
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bold;  
+    }
+    .services_offerd:hover{
+        background-color: white;
+    }
+
+
+
+
+    /* cloud solutions section  */
+    .cloud_read_more_btn{
+        padding: 8px;
+        border: none;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        background-color: #01733B;
+        color: white;
+        font-weight: bold;
+        border-radius: 20px;
+        width: 150px;
+    }
+    .cloud_read_more_btn:hover{
+       border: 1px solid #01733B;
+       background-color: white;
+       color: black;
+       font-family: 'Courier New', Courier, monospace;
+       padding: 10px;
+    }
+
+    /* .cloud services section  */
+    .blog_sliding_img img{
+        width: 250px;
+        height: 350px;
+        margin-top: 40px;
+        /* transform: rotateY(10deg); */
+        /* transform: rotate(10 deg); */
+        transform: skewx(12deg);
+      /* transform: scale3dY(20deg); */
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* slider blog cloud services section  */
+
+   .blog_sliding_img2 h4{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   }
+   .blog_sliding_img2 p{
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(79, 76, 76);
+   }
